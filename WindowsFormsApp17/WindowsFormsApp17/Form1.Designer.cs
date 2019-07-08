@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApp16
+﻿namespace WindowsFormsApp17
 {
     partial class Form1
     {
